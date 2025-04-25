@@ -58,17 +58,23 @@ clf.predict([[1, 80, 1, 90, 1, 1, 90, 1, 0, 85, 1, 85]])
 ## Output:
 PLACEMENT DATA:
 ![image](https://github.com/user-attachments/assets/eca5fdb9-3bdf-4d8c-8e98-0293fb0b03c6)
+
 ![image](https://github.com/user-attachments/assets/31cd158d-415b-42f0-bab2-025e93ed0dd0)
+
 ![image](https://github.com/user-attachments/assets/e2969a1e-2e74-4c2d-ab4e-21a3f33595d7)
+
 ![image](https://github.com/user-attachments/assets/a8ab4374-c10b-4d67-a306-ed40cea29dba)
 
 Y_PREDICTED ARRAY:
+
 ![image](https://github.com/user-attachments/assets/321074fa-2d8c-4aa0-a55c-6b6c1f8158e7)
 
 ACCURACY:
+
 ![image](https://github.com/user-attachments/assets/092e2a58-bf82-453e-84b3-a5c247b574a8)
 
 CONFUSION MATRIX:
+
 ![image](https://github.com/user-attachments/assets/c2abd3e3-67b3-412f-a716-2bcc1893cf06)
 
 
